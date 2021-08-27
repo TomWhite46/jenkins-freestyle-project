@@ -1,1 +1,1 @@
-echo 'Hello from run.sh!'asdasdasdasdasdaasdasd
+echo 'Hello from run.sh!'
