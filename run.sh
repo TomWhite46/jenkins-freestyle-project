@@ -1,1 +1,1 @@
-echo 'Goodbye from run.sh!'
+echo 'Hello and goodbye from run.sh!'
